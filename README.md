@@ -102,7 +102,7 @@ Change the `1200` timeout in `onCardClick` and `handleClose` (milliseconds).
 I build premium, creative websites that stand out.  
 If you want something like this — or better — for your brand:
 
-📩 **[stefan@codinglegends.io](mailto:stefan@codinglegends.io)**
+📩 **[puldithvinul@gmail.com](mailto:puldithvinul@gmail.com)**
 
 ---
 
