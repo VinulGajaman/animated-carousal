@@ -3,7 +3,7 @@
 A visually immersive hero section built with React, featuring orbiting silver cards, a space-travel warp effect, and a liquid glass card reveal. Designed to show what a premium, creative website can feel like.
 
 > **Seen on TikTok?** Drop a comment and I'll share the repo link 👇  
-> **Want this for your brand?** → [stefan@codinglegends.io](mailto:stefan@codinglegends.io)
+> **Want this for your brand?** → [puldithvinul@gmail.com](mailto:puldithvinul@gmail.com)
 
 ---
 
